@@ -33,10 +33,10 @@
                 </ul>
                 <ul class="navbar-nav mb-2 mb-lg-0 px-4">
                     <li class="nav-item">
-                        <a href="#" class="nav-link">Linkedin <i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/arthur-s%C3%A9rvulo-5bb1831bb/" class="nav-link">Linkedin <i class="fab fa-linkedin"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link">Github <i class="fab fa-github-square"></i></a>
+                        <a href="https://github.com/arthurmalakian" target="_blank" class="nav-link">Github <i class="fab fa-github-square"></i></a>
                     </li>
                 </ul>
             </div>
